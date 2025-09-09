@@ -1,0 +1,5 @@
+train: E:\Clearcut-Data\images\train
+val:   E:\Clearcut-Data\images\val
+
+nc: 2  # number of classes
+names: ['usable', 'damaged']

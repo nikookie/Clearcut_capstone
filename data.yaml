@@ -1,0 +1,13 @@
+train: clearcut_datasets/train/images
+val: clearcut_datasets/valid/images
+test: clearcut_datasets/test/images
+
+nc: 2
+names: ['Badwood', 'Good wood']
+
+roboflow:
+  workspace: karlos-cyrp4
+  project: clearcut-hlxzl
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/karlos-cyrp4/clearcut-hlxzl/dataset/3

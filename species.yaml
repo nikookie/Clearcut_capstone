@@ -1,0 +1,13 @@
+path: dataset_species  # path to your split dataset (train/val/test inside)
+
+train: train
+val: val
+test: test
+
+names:
+  0: Acacia tree
+  1: Aratiles tree
+  2: Mahogany tree
+  3: Mango tree
+  4: Narra tree
+  5: Shorea astylosa tree
